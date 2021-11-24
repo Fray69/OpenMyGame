@@ -1,0 +1,14 @@
+F:\Git\ТЗ для OpenMyGames\task4\task4\bin\Debug\netcoreapp3.1\task4.exe
+F:\Git\ТЗ для OpenMyGames\task4\task4\bin\Debug\netcoreapp3.1\task4.deps.json
+F:\Git\ТЗ для OpenMyGames\task4\task4\bin\Debug\netcoreapp3.1\task4.runtimeconfig.json
+F:\Git\ТЗ для OpenMyGames\task4\task4\bin\Debug\netcoreapp3.1\task4.runtimeconfig.dev.json
+F:\Git\ТЗ для OpenMyGames\task4\task4\bin\Debug\netcoreapp3.1\task4.dll
+F:\Git\ТЗ для OpenMyGames\task4\task4\bin\Debug\netcoreapp3.1\task4.pdb
+F:\Git\ТЗ для OpenMyGames\task4\task4\obj\Debug\netcoreapp3.1\task4.csproj.AssemblyReference.cache
+F:\Git\ТЗ для OpenMyGames\task4\task4\obj\Debug\netcoreapp3.1\task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\ТЗ для OpenMyGames\task4\task4\obj\Debug\netcoreapp3.1\task4.AssemblyInfoInputs.cache
+F:\Git\ТЗ для OpenMyGames\task4\task4\obj\Debug\netcoreapp3.1\task4.AssemblyInfo.cs
+F:\Git\ТЗ для OpenMyGames\task4\task4\obj\Debug\netcoreapp3.1\task4.csproj.CoreCompileInputs.cache
+F:\Git\ТЗ для OpenMyGames\task4\task4\obj\Debug\netcoreapp3.1\task4.dll
+F:\Git\ТЗ для OpenMyGames\task4\task4\obj\Debug\netcoreapp3.1\task4.pdb
+F:\Git\ТЗ для OpenMyGames\task4\task4\obj\Debug\netcoreapp3.1\task4.genruntimeconfig.cache
