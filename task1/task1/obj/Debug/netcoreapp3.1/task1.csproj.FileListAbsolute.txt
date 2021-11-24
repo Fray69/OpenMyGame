@@ -1,0 +1,13 @@
+F:\Git\ТЗ для OpenMyGames\task1\task1\bin\Debug\netcoreapp3.1\task1.exe
+F:\Git\ТЗ для OpenMyGames\task1\task1\bin\Debug\netcoreapp3.1\task1.deps.json
+F:\Git\ТЗ для OpenMyGames\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+F:\Git\ТЗ для OpenMyGames\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+F:\Git\ТЗ для OpenMyGames\task1\task1\bin\Debug\netcoreapp3.1\task1.dll
+F:\Git\ТЗ для OpenMyGames\task1\task1\bin\Debug\netcoreapp3.1\task1.pdb
+F:\Git\ТЗ для OpenMyGames\task1\task1\obj\Debug\netcoreapp3.1\task1.csprojAssemblyReference.cache
+F:\Git\ТЗ для OpenMyGames\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+F:\Git\ТЗ для OpenMyGames\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+F:\Git\ТЗ для OpenMyGames\task1\task1\obj\Debug\netcoreapp3.1\task1.csproj.CoreCompileInputs.cache
+F:\Git\ТЗ для OpenMyGames\task1\task1\obj\Debug\netcoreapp3.1\task1.dll
+F:\Git\ТЗ для OpenMyGames\task1\task1\obj\Debug\netcoreapp3.1\task1.pdb
+F:\Git\ТЗ для OpenMyGames\task1\task1\obj\Debug\netcoreapp3.1\task1.genruntimeconfig.cache
